@@ -1,0 +1,4 @@
+cp -r can recursively copy directories and contents
+rm -r recursively deletes, be careful with this command (-f forces with no prompts)
+
+Use touch to create a file 
