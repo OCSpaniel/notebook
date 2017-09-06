@@ -1,0 +1,500 @@
+   24  curl -fsSL https://git.io/v504A | ruby
+   25  git config --global user.name 'Adam Bryson'
+   26  git config --global user.email abryson@amazon.com
+   27  git config --list
+   28  curl -fsSL https://git.io/v500H | sh
+   29  get config --list
+   30  git config --list
+   31  java -version
+   32  ls
+   33  Desktop
+   34  dir
+   35  ls
+   36  cd ..
+   37  whoami
+   38  open .
+   39  dir
+   40  os
+   41  ls
+   42  Music
+   43  open .
+   44  open ~
+   45  ls /User/abryson
+   46  ls /usr/abryson
+   47  ls -l
+   48  cd ..
+   49  ls -l
+   50  ls -h
+   51  ls -a
+   52  ll
+   53  ls
+   54  la
+   55  man ls
+   56  ls -l-h
+   57  ls -lh
+   58  date
+   59  dc
+   60  man dc
+   61  cal
+   62  iostat
+   63  whoami
+   64  jobs
+   65  lsblk
+   66  netstat
+   67  quit
+   68  man netstat
+   69  pwd
+   70  cd /Users
+   71  ls
+   72  cd root
+   73  ls
+   74  cd Library
+   75  ls
+   76  Application Support
+   77  ls
+   78  cd ..
+   79  cd ..
+   80  cd abryson
+   81  ls
+   82  ls ~
+   83  ls /Users/abryson
+   84  ls /Users/abryson/Movies
+   85  ls /Users/abryson/Desktop
+   86  ls -lh /Users/abryson/Desktop
+   87  cd .
+   88  ls -a
+   89  ls -l
+   90  ls ls -lh
+   91  ls -lh
+   92  cd
+   93  cd Library/
+   94  ls
+   95  open .
+   96  cd ..
+   97  ls
+   98  open .
+   99  ls -l
+  100  ls -lh
+  101  cd Library
+  102  ls
+  103  ls -la
+  104  ls -lh
+  105  cd Services
+  106  ls
+  107  ls -a
+  108  cd ..
+  109  cd Preferences
+  110  ls
+  111  ls -lh | less
+  112  ls -lh > less
+  113  ls -lh < less
+  114  ll
+  115  cd ..
+  116  cd ~
+  117  ls
+  118  ll
+  119  ls -hal
+  120  ls
+  121  la
+  122  ll
+  123  la
+  124  echo $EDITOR
+  125  echo $PATH
+  126  echo $SHELL
+  127  env
+  128  date
+  129  cal
+  130  man ln
+  131  ls
+  132  cd ..
+  133  man
+  134  q
+  135  q
+  136  man ls
+  137  ll
+  138  ll -r
+  139  la -rS
+  140  ll -rS
+  141  man ls
+  142  ll -e
+  143  ls -e
+  144  ls -le
+  145  man
+  146  ls
+  147  man
+  148  1
+  149  man
+  150  ls
+  151  man
+  152  bash
+  153  ls
+  154  la -sR
+  155  ls -aR
+  156  ls -m
+  157  ls -R
+  158  man -R
+  159  man ls
+  160  ls -mR
+  161  ls -a
+  162  cd ..
+  163  ls -arC
+  164  ls -lar
+  165  ls -lars
+  166  man grep
+  167  ls -ks
+  168  man ls
+  169  env
+  170  ls -lah
+  171  man cd
+  172  man hashstat
+  173  help hashstat
+  174  help help
+  175  help cd
+  176  help hash
+  177  man hashstat
+  178  help hashstat
+  179  man -k hashstat
+  180  help hash
+  181  env
+  182  echo $PATH
+  183  echo $EDITOR
+  184  which cd
+  185  which bash
+  186  cd Downloads
+  187  ls
+  188  ls -alh
+  189  cd /usr/bin
+  190  ls -al
+  191  cd /usr/local/bin
+  192  ls -l
+  193  ls -alh
+  194  cd /usr/bin
+  195  ls -la
+  196  ls -lah
+  197  ll
+  198  cd /usr/bin
+  199  ll
+  200  cd /bin
+  201  ll
+  202  man thermal
+  203  cd /usr/local/bin
+  204  ll
+  205  ls -la
+  206  cd /usr/bin
+  207  ls -al
+  208  cd /bin
+  209  ls -l
+  210  ls /bin/
+  211  ps
+  212  ps -a
+  213  [
+  214  []
+  215  man [
+  216  ls
+  217  ls /-sbin
+  218  ls /sbin
+  219  ls /usr/sbin
+  220  mDNSresponder
+  221  ls
+  222  ls /usr/sbin
+  223  mDNSResponder
+  224  ech $EDITOR
+  225  echo $EDITOR
+  226  nano ~/.bash_profile
+  227  echo $EDITOR
+  228  man nano
+  229  cat ~/.bash_profile
+  230  ls
+  231  cat ~/.bash_profile
+  232  echo $EDITOR
+  233  echo $SHELL
+  234  exit
+  235  brew install tree
+  236  tree ~
+  237  tree -L 1~
+  238  cd Library
+  239  tree -L
+  240  tree 1~
+  241  tree
+  242  tree -L 1~
+  243  tree -L 1 /~/Library
+  244  tree -L 1 ~/Library
+  245  cd /
+  246  ls
+  247  ll
+  248  cd net
+  249  ls
+  250  ls -a
+  251  cd ..
+  252  cd opt
+  253  ls
+  254  ls -al
+  255  cd ..
+  256  ls
+  257  cd Library
+  258  ls
+  259  ll
+  260  cd Python
+  261  ls
+  262  ls -al
+  263  cd 2.7
+  264  ls -al
+  265  cd site-packages
+  266  ls 0al
+  267  ls -al
+  268  ls -al
+  269  cd /
+  270  ls
+  271  ll
+  272  cd Users
+  273  ls
+  274  cd abryson
+  275  cd ~
+  276  ls
+  277  cd
+  278  cd /Volumes
+  279  ls
+  280  cd abryson-1
+  281  ls
+  282  ls -al
+  283  cd ..
+  284  ls -al
+  285  cd abryson
+  286  ls -al
+  287  sudo ls -al
+  288  cd ..
+  289  cd /Users
+  290  l;s
+  291  ls -al
+  292  la
+  293  ls -lah
+  294  cd root
+  295  ls -al
+  296  cd Library
+  297  ls
+  298  cd ~
+  299  ls
+  300  cd ..
+  301  ls
+  302  ls -al
+  303  cd ..
+  304  ls
+  305  cd Volumes
+  306  cd ../..
+  307  ls
+  308  cd ...
+  309  cd ..
+  310  ls
+  311  cd ....
+  312  l
+  313  sls
+  314  ls
+  315  cd Volumes
+  316  ls 0ak
+  317  ls -al
+  318  ls -hal
+  319  cd abryson-1
+  320  ls -al
+  321  cd /
+  322  ls -a
+  323  cd .Spotlight-V100
+  324  cd Spotlight-V100
+  325  sudo cd Spolight-V100
+  326  sudo cd Spotlight-V100
+  327  cd .Spotlight-V100/
+  328  sudo cd .Spotlight-V100/
+  329  ls
+  330  pwd
+  331  cd ~
+  332  pwd
+  333  cd abryson/
+  334  ls
+  335  cd /Users
+  336  cd abryson/
+  337  ls
+  338  cd ..
+  339  cd ..
+  340  cd /Users/abryson/Desktio
+  341  cd /Users/abryson/Desktop
+  342  ls
+  343  ls -l
+  344  ll
+  345  ls -a
+  346  cd .DS_
+  347  cd .DS_Store
+  348  ls
+  349  ls -al
+  350  cd /
+  351  ls -al
+  352  cd Volumes
+  353  ls -al
+  354  cd abryson
+  355  ls -al
+  356  cd ..
+  357  cd /usr
+  358  ls -al
+  359  cd include
+  360  ll
+  361  cd ..
+  362  cd .var
+  363  cd /var
+  364  ls
+  365  ls -al
+  366  cd jabberd
+  367  ls
+  368  ls -l
+  369  sudo cd jabberd
+  370  ls
+  371  sudo cd jabberd
+  372  ls
+  373  ls -al
+  374  cd jabberd
+  375   cd..
+  376  ls
+  377  cd ..
+  378  cd /var
+  379  cd agentx
+  380  sudo cd agentx
+  381  ls
+  382  cd ..
+  383  ls
+  384  cd Volumes
+  385  ls 
+  386  cd abryson
+  387  -s
+  388  cd -
+  389  cd ..
+  390  ls -a
+  391  cd /opt
+  392  ls
+  393  ls -al
+  394  cd ..
+  395  ls
+  396  cd private
+  397  ls
+  398  cd /Volumes
+  399  pwd
+  400  ls -al
+  401  git config --list
+  402  ls -a
+  403  cd /
+  404  ls
+  405  cd Volumes
+  406  ls -a
+  407  cd home
+  408  ls
+  409  cd ~
+  410  ls
+  411  mkdir ~/Projects
+  412  cd Projects
+  413  ls
+  414  mkdir week01
+  415  cd week01
+  416  ls
+  417  mkdir notebook
+  418  cd notebook
+  419  ls
+  420  man touch
+  421  touch notes.txt
+  422  ll
+  423  cat notes.txt
+  424  nano notes.txt
+  425  cat notes.txt
+  426  mv notes.txt commands.txt
+  427  ll
+  428  chmod
+  429  cd ..
+  430  ls
+  431  ll
+  432  cd notebook
+  433  ls
+  434  ll
+  435  rm commands.txt
+  436  touch CamelCase.java
+  437  touch Notes
+  438  touch kebab-case.js
+  439  touch snake_case.rb
+  440  ls
+  441  cd ..
+  442  ls
+  443  cd notebook
+  444  mkdir temp
+  445  rmdir temp
+  446  mkdir temp
+  447  ls
+  448  mv snake_case.rb ./temp
+  449  ls
+  450  cd temp
+  451  ll
+  452  cd .
+  453  cd..
+  454  cd ..
+  455  ls
+  456  rmdir temp
+  457  rmdir -f
+  458  rmdir -p temp
+  459  rmdir -f temp
+  460  man rmdir
+  461  man rm
+  462  rm -d temp
+  463  man rm
+  464  rm -rv temp
+  465  ls
+  466  ll
+  467  cd ..
+  468  rm Notes
+  469  ls
+  470  ls
+  471  ll
+  472  cd notebook
+  473  ll
+  474  rm Notes
+  475  rm CamelCase.java
+  476  rm kebab-case.js
+  477  ls
+  478  cd ..
+  479  cd notebook
+  480  ls
+  481  git init
+  482  la
+  483  la .git
+  484  man git-init
+  485  git status
+  486  touch git.txt
+  487  nano git.txt
+  488  git status
+  489  git st
+  490  git add git.txt
+  491  git status
+  492  git st
+  493  git commit -m "Add git.txt"
+  494  git log
+  495  git ll
+  496  git status
+  497  git st
+  498  ls
+  499  cd ..
+  500  ls
+  501  cd notebook
+  502  touch README.md
+  503  man ln
+  504  ls
+  505  cd ..
+  506  ls
+  507  cd notebook
+  508  touch notes.txt
+  509  nano notes.txt
+  510  man chmod
+  511  ll
+  512  history
+  513  clear
+  514  ll
+  515  ll
+  516  history 
+  517  history 494
+  518  man history
+  519  man chmod
+  520  ls
+  521  clear
+  522  clear
+  523  history > commands.txt
