@@ -1,0 +1,6 @@
+Redirection in Unix
+ > redirects output to a file - NOTE deletes all contents in target
+>> redirects out to a file - appends to existing file
+
+The | or pipe operator redirects output to another command as a command line argument
+
