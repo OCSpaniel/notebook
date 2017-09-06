@@ -1,0 +1,4 @@
+git init creates a staging area and history inside the .git director. The history represents
+a master branch
+
+git status returns the stats of latest commits
